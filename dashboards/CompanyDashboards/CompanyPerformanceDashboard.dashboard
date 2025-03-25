@@ -194,7 +194,7 @@
             <useReportChart>false</useReportChart>
         </components>
     </middleSection>
-    <owner>shree423@gmail.com.copa.production</owner>
+    <owner>shree423@gmail.com.copa.int</owner>
     <rightSection>
         <columnSize>Medium</columnSize>
         <components>
@@ -259,7 +259,7 @@
             <useReportChart>false</useReportChart>
         </components>
     </rightSection>
-    <runningUser>shree423@gmail.com.copa.production</runningUser>
+    <runningUser>shree423@gmail.com.copa.int</runningUser>
     <textColor>#000000</textColor>
     <title>Company Performance Dashboard</title>
     <titleColor>#000099</titleColor>

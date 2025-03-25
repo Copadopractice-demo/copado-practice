@@ -48,7 +48,7 @@
     <applicationVisibilities>
         <application>standard__MSJApp</application>
         <default>false</default>
-        <visible>true</visible>
+        <visible>false</visible>
     </applicationVisibilities>
     <applicationVisibilities>
         <application>standard__Marketing</application>
