@@ -9,7 +9,7 @@
         <value>Knowledge</value>
     </caseValues>
     <fields>
-        <label><!-- Article Purpose --></label>
+        <label></label>
         <name>Article_Purpose__c</name>
     </fields>
     <startsWith>Consonant</startsWith>
