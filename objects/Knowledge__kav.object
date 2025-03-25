@@ -22,6 +22,15 @@
     <deploymentStatus>Deployed</deploymentStatus>
     <enableFeeds>false</enableFeeds>
     <enableHistory>false</enableHistory>
+    <fields>
+        <fullName>Article_Purpose__c</fullName>
+        <externalId>false</externalId>
+        <label>Article Purpose</label>
+        <length>200</length>
+        <required>true</required>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
     <label>Knowledge</label>
     <pluralLabel>Knowledge</pluralLabel>
 </CustomObject>
