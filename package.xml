@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Chatter_External_User_profileSessionSetting1743052385513</members>
-        <name>ProfileSessionSetting</name>
+        <members>Chatter_External_User_profilePasswordPolicy1743052385135</members>
+        <name>ProfilePasswordPolicy</name>
     </types>
     <version>63.0</version>
 </Package>
