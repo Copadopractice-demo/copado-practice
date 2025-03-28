@@ -192,6 +192,26 @@
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
+        <fullName>Product_Availability__c</fullName>
+        <externalId>false</externalId>
+        <label>Product Availability</label>
+        <length>20</length>
+        <required>true</required>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Product_Version__c</fullName>
+        <externalId>false</externalId>
+        <label>Product Version</label>
+        <length>5</length>
+        <required>true</required>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>QuantityUnitOfMeasure</fullName>
         <trackHistory>false</trackHistory>
         <type>Picklist</type>
