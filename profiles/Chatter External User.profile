@@ -1789,7 +1789,7 @@
     <fieldPermissions>
         <editable>false</editable>
         <field>Lead.HasOptedOutOfFax</field>
-        <readable>false</readable>
+        <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
