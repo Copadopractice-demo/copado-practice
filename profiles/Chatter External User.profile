@@ -87,7 +87,7 @@
     </applicationVisibilities>
     <custom>false</custom>
     <fieldPermissions>
-        <editable>false</editable>
+        <editable>true</editable>
         <field>Account.AccountNumber</field>
         <readable>false</readable>
     </fieldPermissions>
